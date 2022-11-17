@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Proyecto1Multimedia</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
 </resources>

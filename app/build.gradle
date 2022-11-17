@@ -7,6 +7,10 @@ android {
     namespace 'com.example.proyecto1multimedia'
     compileSdk 32
 
+    viewBinding {
+        enabled = true
+    }
+
     defaultConfig {
         applicationId "com.example.proyecto1multimedia"
         minSdk 16
